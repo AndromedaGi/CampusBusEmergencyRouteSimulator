@@ -1,9 +1,9 @@
-miniBusEmergencyRouteSimulator
+CampusBusEmergencyRouteSimulator
 ==============================
 
 ### Problem Statement 
 
-Use the road network digital data of IIT Bombay campus and show the movement of our internal minibus service by simulating the positions. Given an emergency location, you can send the nearest vehicle for help.
+Use the road network digital data of IIT Bombay campus and show the movement of our internal minibus (Tum Tum) service by simulating the positions. Given an emergency location, you can send the nearest vehicle for help.
 
 ###Technologies Used:
 
